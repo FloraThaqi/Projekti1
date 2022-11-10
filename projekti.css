@@ -1,0 +1,109 @@
+/* .navbar>.container {
+    justify-content: center !important;
+} */
+
+.column-gap-60 {
+    column-gap: 60px;
+}
+
+.loc-icon {
+    font-size: 40px;
+}
+
+
+.our-staff-footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.navbar a:hover{
+    background-color:grey;
+}
+.figure{
+  position: relative;  
+}
+.figure>div{
+   position: absolute;
+   left:5%;
+   bottom:15%;
+  
+   
+}
+.figure>section{
+    position: absolute;
+    left:15%;
+    top:20%;
+}
+ .figure>.openhours{
+   position: absolute; 
+   top:0px ;
+   left:2%;
+ }   
+
+.fonts-0{
+   font-size: 30px; 
+}
+.fonts-1{
+  font-size:25px ;  
+}
+.fonts-2{
+    font-size:65px ;
+    font-style:oblique;
+}
+.backg-color1{
+background-color: #e6ffff;
+}
+.backg-color2{
+background-color:aliceblue ;
+}
+.backg-color3{
+background-color:#82cafa ;
+}
+
+.color-1{
+    color:green;
+}
+.color-2{
+    color: red;
+}
+.section-1{
+    background-color:#e6ffff;
+    height: fit-content;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color:lightblue;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+  #panel2, #flip2 {
+    padding: 5px;
+    text-align: center;
+    background-color:lightblue;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel2 {
+    padding: 50px;
+    display: none;
+  }
+  #panel3, #flip3 {
+    padding: 5px;
+    text-align: center;
+    background-color:lightblue;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel3 {
+    padding: 50px;
+    display: none;
+  }
+ 
+
+  
